@@ -5,7 +5,7 @@ import { colors } from "./../../constants/Colors";
 import { Dimensions } from "react-native";
 import Icon from "../../components/Icons/Icon";
 import ThemedText from "../../components/ThemedText/ThemedText";
-import { AppContextProvider } from "../../context/context";
+
 
 const TabBarIcon = ({ color, focused, icon, label }) => {
   return (
