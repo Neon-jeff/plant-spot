@@ -3,7 +3,18 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
-
+# Cart page
+![alt text](<2024-07-03 19-01-16 High Res Screenshot.png>)
+# # Product Page
+ ![alt text](<2024-07-03 19-01-00 High Res Screenshot.png>)
+  # Intro page
+  ![alt text](<2024-07-03 19-00-47 High Res Screenshot.png>)
+   # Empty cart page
+   ![alt text](<2024-07-03 19-01-43 High Res Screenshot.png>)
+   # Order Complete page
+   ![alt text](<2024-07-03 19-01-31 High Res Screenshot.png>)
+ # Payment Page
+ ![alt text](<2024-07-03 19-01-25 High Res Screenshot.png>)
 1. Install dependencies
 
    ```bash
@@ -23,17 +34,11 @@ In the output, you'll find options to open the app in a
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
 
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
 
